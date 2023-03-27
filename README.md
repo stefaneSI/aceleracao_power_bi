@@ -1,4 +1,4 @@
-# Dasboard em Power BI
+# Dashboard em Power BI
 
 Este dashboard foi proposto em uma aceleração de Power BI com intuito de transformar dados em ouro.
 
